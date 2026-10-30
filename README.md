@@ -1,3 +1,3 @@
 # Open-Book-Pretraining
 
-More details coming...
+More details coming
